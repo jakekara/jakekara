@@ -1,8 +1,6 @@
 # Hi! 
 
-👋 I'm Jake. I'm a senior software engineer at The Washington Post in Newsroom Engineering. I've worked in data journalism, with a dash of digital humanities for the past decade.
-
-👨‍🎓 I finished my master's degree in software engineering in May 2021 🎉! For my thesis research, I worked on a system to enhance Jupyter Notebooks with annotations called "margin notes." My implementation of margin notes is called Margo, and it's maintained here: [https://github.com/margo-notebooks/](https://github.com/margo-notebooks/)
+👋 I'm Jake. I'm a software engineer working in journalism and digital humanities.
 
 <!--
 **jakekara/jakekara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
